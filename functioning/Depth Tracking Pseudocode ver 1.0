@@ -1,0 +1,62 @@
+/////////////////////////////////////////////////////////////////////////
+//Emma Clason
+//MTE Associates Class of 2025
+//B-Braun Team
+//March 3rd, 2025
+//LAST UPDATED: 03/03/2025
+//ver 1.0
+/////////////////////////////////////////////////////////////////////////
+
+//SETUP
+//Import necessary Libraries
+
+//Initialize Zed 2 Camera
+
+//Initialize OpenCV for Image Processing
+
+//Initialize Pixel Length Measurment Library
+
+//Establish Constants
+realStripeDistance = X   //in millimeters
+needleLength = 25.4      //1 inch in millimeters
+realPixelDistance = 0 //real distance between catheter stripes
+
+//Establish Variables
+currentPixelDistance = 0 //current distance between catheter stripes
+insertionAngle = 0 //calculated angle of catheter in degrees for ease of use
+needleTipDepth = 0 //calculated needle tip depth in millimeters
+
+//Function to find insertion angle
+function calculateAngle(realPixelDistance, currentPixelDistance)
+    return arccos(currentPixelDistance / realPixelDistance) * (180 / PI)
+
+//Function to calculate needle point depth
+function calculateDepth(insertionAngle, projectedNeedlePoint)
+    return projectedNeedlePoint * sin(insertionAngle * (PI / 180))
+
+//MAIN LOOP:
+while True:
+//Capture frame from Zed 2 camera
+
+//Detect the two black stripes on the catheter
+
+//Calculate the pixel distance between the stripes
+
+//Check if the catheter is in the "zeroing" position
+if inZeroingPosition():
+        // Set the initial pixel distance for reference
+        
+        print("Zeroing complete. Initial pixel distance set to:", realPixelDistance)
+
+//Calculate the insertion angle
+    insertionAngle = calculateAngle(realPixelDistance, currentPixelDistance)
+
+//Project the needle tip position
+    projectedNeedlePoint = (needleLength / realStripeDistance) * currentPixelDistance
+
+//Calculate the needle tip depth
+    needleTipDepth = calculateDepth(insertionAngle, projectedNeedlePoint)
+
+//Display the found values on the screen, including insertion angle, needle tip depth
+
+//Break the loop if the user takes catheter out of frame
