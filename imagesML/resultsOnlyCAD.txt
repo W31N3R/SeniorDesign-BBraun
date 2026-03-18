@@ -1,0 +1,67 @@
+5:00 pm
+The most similar image was 22_Gauge_XYZ_Clockwise_Rotations-0540.png with a similarity score of 0.78
+The least similar image was 22_Gauge_XYZ_Clockwise_Rotations-0846.png with a similarity score of 0.25
+The average similarity score was 0.53
+The similarity between base and base was 0.49
+
+5:30 pm
+Similarity Score: 0.49
+The most similar image was 22_Gauge_XYZ_Clockwise_Rotations-0768.png with a similarity score of 0.63
+The least similar image was 22_Gauge_XYZ_Clockwise_Rotations-0821.png with a similarity score of 0.27
+The average similarity score was 0.45
+The similarity between base and base was 0.49
+
+7:00 pm
+The most similar image was 22_Gauge_XYZ_Clockwise_Rotations-0376.png with a similarity score of 0.58
+The least similar image was 22_Gauge_XYZ_Clockwise_Rotations-0078.png with a similarity score of 0.46
+The average similarity score was 0.52
+The similarity between base and base was 0.50
+
+7:30 pm
+The most similar image was 22_Gauge_XYZ_Clockwise_Rotations-0517.png with a similarity score of 0.72
+The least similar image was 22_Gauge_XYZ_Clockwise_Rotations-0780.png with a similarity score of 0.33
+The average similarity score was 0.52
+The similarity between base and base was 0.50
+PS C:\Users\herop\OneDrive\Documents\!College\!BBraunFiles> 
+
+10:00 pm
+The most similar image was 22_Gauge_XYZ_Clockwise_Rotations-0836.png with a similarity score of 0.55
+The least similar image was 22_Gauge_XYZ_Clockwise_Rotations-0739.png with a similarity score of 0.43
+The average similarity score was 0.49
+The similarity between base and base was 0.49
+
+10:45 pm
+The most similar image was 22_Gauge_XYZ_Clockwise_Rotations-0634.png with a similarity score of 0.66
+The least similar image was 22_Gauge_XYZ_Clockwise_Rotations-0342.png with a similarity score of 0.38
+The average similarity score was 0.49
+The similarity between base and base was 0.49
+
+11:30 pm
+The most similar image was 22_Gauge_XYZ_Clockwise_Rotations-0157.png with a similarity score of 0.82
+The least similar image was 22_Gauge_XYZ_Clockwise_Rotations-0734.png with a similarity score of 0.10
+The average similarity score was 0.45
+The similarity between base and base was 0.50
+
+12:00 am
+The most similar image was 22_Gauge_XYZ_Clockwise_Rotations-0775.png with a similarity score of 0.71
+The least similar image was 22_Gauge_XYZ_Clockwise_Rotations-0678.png with a similarity score of 0.23
+The average similarity score was 0.47
+The similarity between base and base was 0.50
+
+1:00 am
+The most similar image was 22_Gauge_XYZ_Clockwise_Rotations-0397.png with a similarity score of 0.83
+The least similar image was 22_Gauge_XYZ_Clockwise_Rotations-0802.png with a similarity score of 0.22
+The average similarity score was 0.54
+The similarity between base and base was 0.50
+
+2:00 am
+The most similar image was 22_Gauge_XYZ_Clockwise_Rotations-0730.png with a similarity score of 0.95
+The least similar image was 22_Gauge_XYZ_Clockwise_Rotations-0634.png with a similarity score of 0.12
+The average similarity score was 0.56
+The similarity between base and base was 0.50
+
+2:30 am
+The most similar image was 22_Gauge_XYZ_Clockwise_Rotations-0802.png with a similarity score of 0.84
+The least similar image was 22_Gauge_XYZ_Clockwise_Rotations-0634.png with a similarity score of 0.21
+The average similarity score was 0.53
+The similarity between base and base was 0.49

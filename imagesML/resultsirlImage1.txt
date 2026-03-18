@@ -1,0 +1,23 @@
+Test 1
+The most similar image was 22_Gauge_XYZ_Clockwise_Rotations-0798.png with a similarity score of 0.55
+The least similar image was 22_Gauge_XYZ_Clockwise_Rotations-0242.png with a similarity score of 0.41
+The average similarity score was 0.50
+The similarity between base and base was 0.52
+
+Test 2
+The most similar image was 22_Gauge_XYZ_Clockwise_Rotations-0651.png with a similarity score of 0.57
+The least similar image was irlImage1.png with a similarity score of 0.50
+The average similarity score was 0.56
+The similarity between base and base was 0.56
+
+Test 3
+The most similar image was irlImage1.png with a similarity score of 0.50
+The least similar image was 22_Gauge_XYZ_Clockwise_Rotations-0424.png with a similarity score of 0.03
+The average similarity score was 0.03
+The similarity between base and base was 0.03
+
+Test 4
+The most similar image was irlImage1.png with a similarity score of 0.50
+The least similar image was 22_Gauge_XYZ_Clockwise_Rotations-0741.png with a similarity score of 0.41
+The average similarity score was 0.45
+The similarity between base and base was 0.46
