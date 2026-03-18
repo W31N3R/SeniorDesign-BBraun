@@ -1,0 +1,1 @@
+The file veinviewingNOTSTARTED.py was meant to be the basis for code to view the veins with AI reducing noise, but I never was able to work on it due to the Influenza, and now am moving on to the needle tracking.
